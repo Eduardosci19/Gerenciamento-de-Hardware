@@ -7,7 +7,7 @@
 
 ---
 
-## 📜 Introdução
+## 📜 Introdução dos Levantamentos de Requisitos
 
 ### 🎯 Objetivo
 Este documento apresenta os requisitos do sistema **Gerenciador de Hardware para Laboratórios**, que permitirá o controle e monitoramento de máquinas, consertos, peças trocadas e inventário de componentes em laboratórios.
