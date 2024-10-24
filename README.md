@@ -1,8 +1,7 @@
-# Gerenciamento-de-Hardware
-
 # 🚀 Gerenciador de Hardware para Laboratórios
 
 **Data**: 24/10/2024  
+
 **Responsável**: Eduardo Krüger e Lucas Brito
 
 ---
@@ -56,6 +55,18 @@ O sistema gerenciará:
 - **RF-16**: Criar perfis de usuário com diferentes níveis de acesso.
 - **RF-17**: Manter logs de todas as ações dos usuários.
 
+### 🔔 Notificações e Alertas
+- **RF-18**: O sistema deve enviar notificações para os usuários sobre manutenções programadas e vencimentos de garantias de peças.
+- **RF-19**: Permitir que os usuários personalizem suas preferências de notificação (e-mail, notificações no aplicativo, etc.).
+
+### 📊 Análise de Desempenho
+- **RF-20**: O sistema deve fornecer relatórios de desempenho das máquinas, incluindo tempos de operação, falhas e manutenções realizadas.
+- **RF-21**: Permitir a visualização de tendências de uso e manutenção de máquinas ao longo do tempo.
+
+### 📅 Agendamento e Planejamento
+- **RF-22**: Permitir o agendamento de recursos (máquinas e peças) para atividades específicas, com um calendário integrado.
+- **RF-23**: Criar um painel de planejamento para visualizar as manutenções e agendamentos futuros.
+
 ---
 
 ## ⚙️ Requisitos Não Funcionais
@@ -75,6 +86,16 @@ O sistema gerenciará:
 ### 🛡️ Segurança
 - **RNF-05**: Controle de acesso por autenticação de usuário.
 - **RNF-06**: Registro de ações dos usuários para auditoria.
+
+### 📈 Escalabilidade
+- **RNF-07**: O sistema deve suportar um crescimento de até 50% no número de máquinas e usuários sem comprometer o desempenho.
+
+### 🔍 Acessibilidade
+- **RNF-08**: O sistema deve atender a diretrizes de acessibilidade, garantindo que usuários com deficiência possam utilizar todas as funcionalidades.
+
+### 📚 Documentação e Suporte
+- **RNF-09**: O sistema deve ter documentação técnica e guias de usuário acessíveis, atualizados conforme novas funcionalidades são adicionadas.
+- **RNF-10**: Disponibilizar suporte técnico via chat ou e-mail para resolução de problemas dos usuários.
 
 ---
 
